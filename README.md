@@ -2,7 +2,7 @@
 
 **Author of *Thinking, Conception and Construction of Intelligenism*** — a theoretical framework on how intelligence emerges in organisations, whether human, artificial, or hybrid.
 
-Currently building the **Intelligenism Agent Framework (IAF)** — a ~2000-line lightweight Python agent framework where each agent owns a complete copy of the engine. Additive complexity. True parallel execution. Folder = product.
+Currently building the **Intelligenism Agent Framework (IAF)** — A ~2000-line Python agent framework which not only can be operated by human but also AI themselves. 
 
 ### What I'm Working On
 
